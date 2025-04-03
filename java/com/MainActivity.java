@@ -13,7 +13,7 @@ import android.os.AsyncTask;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Environment;
-import android.os.Handler; // Importa la classe Handler
+import android.os.Handler;
 import android.provider.ContactsContract;
 import android.provider.Settings;
 import android.util.Log;
@@ -31,7 +31,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.File;
-import java.io.FileInputStream; // Importa la classe FileInputStream
+import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
